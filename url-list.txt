@@ -1,0 +1,2 @@
+https://calendar.google.com/calendar/htmlembed?src=john.smith@email.com
+https://calendar.google.com/calendar/htmlembed?src=jane.doe@email.com
